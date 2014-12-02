@@ -6,7 +6,7 @@ Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Simply the easiest way to add a topbar to your website. Create a custom notification bar in no-time and show a message to your visitors (and a call to action button).  
+Simply the easiest way to add a topbar to your website. Create a notification bar in no-time and show a message to your visitors (and a button).  
 
 == Description ==
 [View demo & instructions](http://wpdarko.com/top-bar/)
