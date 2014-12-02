@@ -53,7 +53,8 @@ Go to [the plugin's page](http://wpdarko.com/top-bar/) for information on how to
 Find help in [our forums](http://wpdarko.com/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
 
 == Screenshots ==
-Coming soon
+1. Top bar (front view)
+2. configuring the Top Bar (admin view)
 
 
 == Changelog ==
