@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Top Bar
  * Plugin URI: http://wpdarko.com/top-bar/
- * Description: Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top your website, allowing you to display a nice message to your visitors. Find support and information on the <a href="http://wpdarko.com/top-bar/">plugin's page</a>. This is a free plugin, it is NOT limited and does not contain any ad.
- * Version: 1.0
+ * Description: Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top your website, allowing you to display a nice message to your visitors. Find support and information on the <a href="http://wpdarko.com/top-bar/">plugin's page</a>. This is a free plugin, it is NOT limited and does not contain any ad. Check out the <a href='http://wpdarko.com/top-bar-pro/'>PRO version</a> for more great features.
+ * Version: 1.1
  * Author: WP Darko
  * Author URI: http://wpdarko.com
  * License: GPL2
@@ -23,15 +23,14 @@ function topbar_free_pro_check() {
     }
 }
 
-add_action( 'admin_init', 'topbar_free_pro_check' );
+add_action('admin_init', 'topbar_free_pro_check');
 
 /* --- Enqueue plugin stylsheet --- */
 add_action( 'wp_enqueue_scripts', 'add_topbar_style' );
 
 function add_topbar_style() {
-	wp_enqueue_style( 'topbar', plugins_url('css/topbar_style.css', __FILE__));
     wp_enqueue_script( 'topbar_cookiejs', plugins_url('js/jquery.cookie.js', __FILE__), array( 'jquery' ));
-    wp_enqueue_script( 'topbar_frontjs', plugins_url('js/tpbr_front.js', __FILE__), array( 'jquery' ));
+    wp_enqueue_script( 'topbar_frontjs', plugins_url('js/tpbr_front.min.js', __FILE__), array( 'jquery' ));
     
     if ( is_admin_bar_showing() ) {
         $tpbr_is_admin_bar = 'yes';   
@@ -66,24 +65,27 @@ function add_topbar_style() {
 add_action( 'admin_enqueue_scripts', 'add_admin_topbar_style' );
 
 function add_admin_topbar_style() {
-	wp_enqueue_style( 'topbar', plugins_url('css/admin_topbar_style.css', __FILE__));
-    wp_enqueue_script( 'topbar_cpjs', plugins_url('js/tpbr.js', __FILE__), array( 'jquery' ));
+	wp_enqueue_style( 'topbar', plugins_url('css/admin_topbar_style.min.css', __FILE__));
+    wp_enqueue_script( 'topbar_cpjs', plugins_url('js/tpbr.min.js', __FILE__), array( 'jquery' ));
     wp_enqueue_script( 'topbar_cpljs', plugins_url('js/jquery.tinycolorpicker.min.js', __FILE__), array( 'jquery' ));
 }
-
 
 // create custom plugin settings menu
 add_action('admin_menu', 'tpbr_create_menu');
 
 function tpbr_create_menu() {
-
-	//create new top-level menu
+    
+    if (is_plugin_active('topbar-pro/topbar_pro.php')) {
+        
+    } else {
+        //create new top-level menu
 	add_menu_page('Top Bar', 'Top Bar', 'administrator', __FILE__, 'tpbr_settings_page', 'dashicons-admin-generic');
 
 	//call register settings function
 	add_action( 'admin_init', 'register_tpbr_settings' );
-}
+    }
 
+}
 
 function register_tpbr_settings() {
 	//register our settings
@@ -191,6 +193,7 @@ function tpbr_settings_page() {
             <?php submit_button(); ?>
             
         </form>
+        <strong>This version is NOT limited.</strong><br/><br/>Check out the <a target='_blank' href='http://wpdarko.com/top-bar-pro/'>PRO version</a> for many great new features (new window).<br/><br/>
     </div>
 </div>
 <?php }
