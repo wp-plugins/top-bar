@@ -16,10 +16,8 @@ Simply the easiest way to add a topbar to your website. This plugin adds a simpl
 = Rate and review =
 We love to hear from our users, please take the time to rate this plugin and tell us what you think about it!
 
-= Free vs PRO version? =
-The free version of the Top Bar plugin is **not limited** and does not contain any ad.         
-
-The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
+= No limitation for the Free version =
+The Free version of the Top Bar plugin is **not limited** and does not contain any ad. The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
 
 = Author =
 [WP Darko](http://wpdarko.com/) is one more great place to find exclusive WordPress themes & plugins.
@@ -57,10 +55,8 @@ Go to [the plugin's page](http://wpdarko.com/top-bar/) for information on how to
 = Where can I get help with this plugin? =
 Find help in [our forums](http://wpdarko.com/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
 
-= Free vs PRO version? =
-The free version of the Top Bar plugin is **not limited** and does not contain any ad.   
-
-The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
+= No limitation for the Free version =
+The Free version of the Top Bar plugin is **not limited** and does not contain any ad. The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
 
 == Screenshots ==
 1. Top bar (front view)
