@@ -9,8 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Simply the easiest way to add a topbar to your website. Create a notification bar in no-time and show a message and a button to your visitors.  
 
 == Description ==
-[View demo & instructions](http://wpdarko.com/top-bar/)
-
 Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top of your website, allowing you to display a nice message to your visitors as well as a custom link. What you see is what you get, and it’s totally free.
 
 = Rate and review =
@@ -33,10 +31,10 @@ The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a l
 * Color 
 
 = Usage =
-Go to [the plugin's page](http://wpdarko.com/top-bar/) if you need more information on how to use this plugin.
+Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) if you need more information on how to use this plugin.
 
 = Support =
-Find help in [our forums](http://wpdarko.com/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
+Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
 
 == Installation ==
 
@@ -47,15 +45,15 @@ Find help in [our forums](http://wpdarko.com/forum/plugins/top-bar/) for this pl
 4. Activate the plugin
 
 = Usage =
-Go to [the plugin's page](http://wpdarko.com/top-bar/) for information on how to use it.
+Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) for information on how to use it.
 
 == Frequently Asked Questions ==
 
 = Example & Support =
-Go to [the plugin's page](http://wpdarko.com/top-bar/) for information on how to use this plugin.
+Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) for information on how to use this plugin.
 
 = Where can I get help with this plugin? =
-Find help in [our forums](http://wpdarko.com/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
+Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
 
 = No limitation for the Free version =
 The Free version of the Top Bar plugin is **not limited** and does not contain any ad.   
