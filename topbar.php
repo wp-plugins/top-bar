@@ -193,7 +193,7 @@ function tpbr_settings_page() {
             <?php submit_button(); ?>
             
         </form>
-        <strong>This version is NOT limited.</strong><br/><br/>Check out the <a target='_blank' href='http://wpdarko.com/items/top-bar-pro/'>PRO version</a> for many great new features (new window).<br/><br/>
+        <strong>This is a free plugin, it is NOT limited and does not contain any ad.</strong><br/><br/>Check out the <a target='_blank' href='http://wpdarko.com/items/top-bar-pro/'>PRO version</a> for many great new features. <br/><br/><span style="color:#999999;">Use coupon 7832346 and get a 20% discount.</span><br/><br/>
     </div>
 </div>
 <?php }
