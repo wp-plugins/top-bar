@@ -1,4 +1,5 @@
 === Top Bar ===
+Contributors: spwebguy
 Tags: notification, bar, notification bar, top, topbar, top bar, notice, responsive, custom, info bar, message, promotion, promo, special, extra, button, call to action, link
 Requires at least: 3.6
 Tested up to: 4.1.1
