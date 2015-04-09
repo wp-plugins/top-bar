@@ -12,16 +12,10 @@ Simply the easiest way to add a topbar to your website. Create a notification ba
 == Description ==
 Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top of your website, allowing you to display a nice message to your visitors as well as a custom link. What you see is what you get, and it’s totally free.
 
-= Rate and review =
-We love to hear from our users, please take the time to rate this plugin and tell us what you think about it!
-
 = No limitation for the Free version =
 The Free version of the Top Bar plugin is **not limited** and does not contain any ad.   
 
 The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
-
-= Author =
-[WP Darko](http://wpdarko.com/) is one more great place to find exclusive WordPress themes & plugins.
 
 = Available fields/options =
 * Status (active or inactive)
@@ -49,17 +43,16 @@ Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for
 Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) for information on how to use it.
 
 == Frequently Asked Questions ==
-
-= Example & Support =
-Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) for information on how to use this plugin.
-
-= Where can I get help with this plugin? =
-Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
-
 = No limitation for the Free version =
 The Free version of the Top Bar plugin is **not limited** and does not contain any ad.   
 
 The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
+
+= Usage =
+Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) if you need more information on how to use this plugin.
+
+= Support =
+Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
 
 == Screenshots ==
 1. Top bar (front view)
@@ -67,9 +60,9 @@ The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a l
 
 == Changelog ==
 = 1.1 =
-* Cleaning code (much faster)
+* Cleaning code
 * Minor bug fixes
 * Preparing for the PRO version (no data loss)
 
 = 1.0 =
-* Custom top/notification bar plugin
+* Initial release (yay!)
