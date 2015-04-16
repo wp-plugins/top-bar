@@ -2,7 +2,7 @@
 Contributors: spwebguy
 Tags: notification, bar, notification bar, top, topbar, top bar, notice, responsive, custom, info bar, message, promotion, promo, special, extra, button, call to action, link
 Requires at least: 3.6
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
