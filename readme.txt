@@ -26,10 +26,10 @@ The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a l
 * Color 
 
 = Usage =
-Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) if you need more information on how to use this plugin.
+Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206303727-Get-started-with-the-Top-Bar-plugin) if you need more information on how to use this plugin.
 
 = Support =
-Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
+Find help in [our forums](http://wpdarko.com/support/) for this plugin (we’ll answer you fast, promise).
 
 == Installation ==
 
@@ -40,7 +40,7 @@ Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for
 4. Activate the plugin
 
 = Usage =
-Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) for information on how to use it.
+Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206303727-Get-started-with-the-Top-Bar-plugin) for information on how to use it.
 
 == Frequently Asked Questions ==
 = No limitation for the Free version =
@@ -49,10 +49,10 @@ The Free version of the Top Bar plugin is **not limited** and does not contain a
 The [PRO version](http://wpdarko.com/items/top-bar-pro/) gives you access to a lot of new features: allow users to **close the top bar**, choose an **initial state**, add a **bottom border**, set a **time before the top bar appears**, make it visible **only for guests or registered users**, change the **font-size** and choose among many, many **new colors**.
 
 = Usage =
-Go to [the plugin's documentation](http://wpdarko.com/support/documentation/get-started-top-bar/) if you need more information on how to use this plugin.
+Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206303727-Get-started-with-the-Top-Bar-plugin) if you need more information on how to use this plugin.
 
 = Support =
-Find help in [our forums](http://wpdarko.com/support/forum/plugins/top-bar/) for this plugin (we’ll answer you fast, promise).
+Find help in [our forums](http://wpdarko.com/support/) for this plugin (we’ll answer you fast, promise).
 
 == Screenshots ==
 1. Top bar (front view)
