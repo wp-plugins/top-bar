@@ -2,7 +2,7 @@
 /**
 Plugin Name: Top Bar
 Plugin URI: http://wpdarko.com/top-bar/
-Description: Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top your website, allowing you to display a nice message to your visitors. Find support and information on the <a href="http://wpdarko.com/top-bar/">plugin's page</a>. This is a free plugin, it is NOT limited and does not contain any ad. Check out the <a href='http://wpdarko.com/items/top-bar-pro/'>PRO version</a> for more great features.
+Description: Simply the easiest way to add a topbar to your website. This plugin adds a simple and clean notification bar at the top your website, allowing you to display a nice message to your visitors. Find help and information on our <a href="http://wpdarko.com/support/">support site</a>. This is a free plugin, it is NOT limited and does not contain any ad. Check out the <a href='http://wpdarko.com/top-bar/'>PRO version</a> for more great features.
 Version: 1.1
 Author: WP Darko
 Author URI: http://wpdarko.com
